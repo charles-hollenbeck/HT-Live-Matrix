@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HT Live Matrix</string>
+    <string name="lwp_name">HT Live Matrix</string>
+    <string name="description">Drops binary</string>
+
+</resources>

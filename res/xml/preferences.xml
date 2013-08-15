@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <ListPreference
+                android:key="list_preference_color"
+                android:title="Color"
+                android:summary="Selects the color of the falling characters in the wallpaper"
+                android:defaultValue="Green"
+                android:entries="@array/listArray"
+                android:entryValues="@array/listValues"
+                android:dialogTitle="Pick a color" android:enabled="true"/>
+        <ListPreference
+                android:key="list_preference_speed"
+                android:title="Speed"
+                android:summary="Selects the speed of the falling characters in the wallpaper"
+                android:defaultValue="100"
+                android:entries="@array/listSpeed"
+                android:entryValues="@array/listSpeedValues"
+                android:dialogTitle="Pick a Speed" android:enabled="true"/>
+</PreferenceScreen>
