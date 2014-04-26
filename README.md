@@ -5,12 +5,9 @@ https://play.google.com/store/apps/details?id=com.haxxedtech.lwp.matrix
 
 
 
-- [ ] Make transitioning smoother
-- [ ] Random Color Select
-- [ ] Rainbow Color Select
-
-
-
+- [ ] Be awesome
+- [ ] Do stuff
+- [ ] Sleep
 
 
 
